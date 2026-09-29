@@ -12,7 +12,7 @@ Many mathematical subjects study the same idea from different angles: change.
 
 Transformations describe how objects move or reshape. Dynamics asks how states evolve. Quantum mechanics turns states into probabilities. Topology identifies features that survive continuous change.
 
-Follow the chapters in order.
+Follow the chapters in order. The link of this book is here: https://app.gitbook.com/invite/i4K15oeBMw74evvhdNRh/qtotsFsSmDpNrEjWW3hB
 
 ### The roadmap
 
