@@ -15,16 +15,3 @@ site:
           default: true
           content:
             directory: ./the-geometry-behind-physics/docs
-    - type: section
-      key: section-2
-      title: Compilation of softwares on Linux based supercluster
-      path: compilation-of-softwares-on-linux-based-supercluster
-      children:
-        - type: space
-          key: space-2
-          title: Compilation of softwares on Linux based superclust
-          path: compilation-of-softwares-on-linux-based-superclust
-          default: true
-          draft: true
-          content:
-            directory: ./compilation-of-softwares-on-linux-based-supercluster/compilation-of-softwares-on-linux-based-superclust
