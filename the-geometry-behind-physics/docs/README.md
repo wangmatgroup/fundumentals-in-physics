@@ -4,9 +4,9 @@ description: >-
   generators, propagators, and quantum mechanics
 ---
 
-# An intuitive journey through modern mathematics
+# An intuitive journey through modern mathematics and physics
 
-## An intuitive journey through modern mathematics
+## An intuitive journey through modern mathematics and physics
 
 Many mathematical subjects study the same idea from different angles: change.
 
@@ -25,6 +25,3 @@ Follow the chapters in order. The link of this book is here: https://app.gitbook
 | **5. Quantum Evolution and Green's Functions** | Why do energy eigenvalues become poles of a propagator?        |
 | **6. Geometry of Quantum States**              | How can a quantum state acquire geometry as parameters change? |
 | **7. Topology and Quantum Materials**          | How can local geometry produce global, robust physics?         |
-
-
-
