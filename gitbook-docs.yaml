@@ -1,0 +1,30 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: The Geometry Behind Physics
+  structure:
+    - type: section
+      key: section-1
+      title: The Geometry Behind Physics
+      path: the-geometry-behind-physics
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Docs
+          path: docs
+          default: true
+          content:
+            directory: ./the-geometry-behind-physics/docs
+    - type: section
+      key: section-2
+      title: Compilation of softwares on Linux based supercluster
+      path: compilation-of-softwares-on-linux-based-supercluster
+      children:
+        - type: space
+          key: space-2
+          title: Compilation of softwares on Linux based superclust
+          path: compilation-of-softwares-on-linux-based-superclust
+          default: true
+          draft: true
+          content:
+            directory: ./compilation-of-softwares-on-linux-based-supercluster/compilation-of-softwares-on-linux-based-superclust
