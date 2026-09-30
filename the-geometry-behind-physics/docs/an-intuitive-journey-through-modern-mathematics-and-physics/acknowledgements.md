@@ -18,9 +18,11 @@ I am also very grateful to **Dr. Robert M. Raddi** and **Dr. Mohammed Ibrahim So
 
 I owe a very special thanks to **Dr. Hamed Haghshenas at Temple University** and **Dr. Robert “Nerdbert” Schwarzl at Graz University of Technology**. Hamed and Robert were also the two people who kept pushing me to go to the gym, exercise regularly, and get on my bike on the weekends. In a very real sense, they helped save my life. Regular exercise gradually changed both my physical health and my mood, and it became an important part of my life. I still have wonderful memories of going to the gym together and of our long weekend bike rides, including trips from Philadelphia to Atlantic City and to the Princeton University campus. Those experiences reminded me that doing good research also requires learning how to take care of ourselves and enjoy life beyond research.
 
-My sincere appreciation goes to **Dr. David Bialas and April Bialas at Penn State University Behrend** for their friendship, hospitality, and kindness. Their invitations to join their family during many U.S. holidays gave me especially warm memories of living far from home.
+My sincere appreciation goes to **Dr. David Bialas and Dr. April Bialas at Penn State University Behrend** for their friendship, hospitality, and kindness. Their invitations to join their family during many U.S. holidays gave me especially warm memories of living far from home.
 
-Finally, I would like to thank **Prof. Hui Wang at Nanjing University of Posts and Telecommunications** for many discussions about abstract algebra and topology. He helped me better appreciate that some mathematical structures that initially appear extremely abstract can become much more intuitive when approached from the right perspective. He also taught me an equally important subject: how to play better Mahjong. ^\_^
+
+
+Finally, I would like to thank **Prof. Hui Wang at Nanjing University of Posts and Telecommunications** for many discussions about abstract algebra and topology when we were both at Nankai University. He helped me better appreciate that some mathematical structures that initially appear extremely abstract can become much more intuitive when approached from the right perspective. He also taught me an equally important subject: how to play better Mahjong. ^\_^
 
 To all of them, and to the many teachers, colleagues, friends, and students whose conversations have shaped the way I think about mathematics and physics, I am sincerely grateful.
 
